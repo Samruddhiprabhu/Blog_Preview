@@ -37,8 +37,11 @@
     }
     h3{
         font-weight: 800;
-      
     }
+h3:hover{
+    cursor:pointer;
+    color: hsl(47, 88%, 63%);
+}
     .p2{
         color:hsl(0, 0%, 42%);;
     }
